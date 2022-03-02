@@ -854,10 +854,10 @@ body {
 .project-container {
   max-width: 240px;
   border-radius: 5px;
-  background-color: #5cb85c;
+  background-color: #ebebeb;
   color: #fff;
   cursor: pointer;
-  box-shadow: 2px 2px 5px 3px #5cb85c27;
+  box-shadow: 2px 2px 5px 3px #e3e3e3;
 }
 
 .project-img-container {
@@ -876,6 +876,7 @@ body {
   margin: 1.2rem auto;
   font-size: 1.2rem;
   font-weight: 600;
+  color:#000000;
 }
 .project_details{
   text-align: center;
